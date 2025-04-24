@@ -11,14 +11,14 @@ https://templatemo.com/tm-588-ebook-landing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #BF897F;
-  --secondary-color:              #DAA38F;
+  --primary-color:                #E5C5C1;
+  --secondary-color:              #BD8B89;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #f6ece3;
   --custom-btn-bg-hover-color:    #91766e;
   --dark-color:                   #000000;
-  --p-color:                      #3A3b3A;
-  --link-hover-color:             #707B6D;
+  --p-color:                      #717275;
+  --link-hover-color:             #E76F51;
 
   --body-font-family:             'Unbounded', sans-serif;
 
@@ -908,13 +908,6 @@ strong {
 .custom-form button[type="submit"]:focus {
   background: var(--custom-btn-bg-hover-color);
   border-color: transparent;
-}
-
-textarea.form-control {
-  vertical-align: middle;
-  display: flex;
-  align-items: center;
-  height: 50px;
 }
 
 
